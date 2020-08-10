@@ -1,0 +1,1 @@
+Using animation in python to implement triple pendulum
